@@ -66,6 +66,7 @@
 				<string>pci14e4,4328</string>
 				<string>pci14e4,432c</string>
 				<string>pci14e4,432d</string>
+				<string>pci14e4,4727</string>
 			</array>
 			<key>IOProbeScore</key>
 			<integer>6000</integer>
